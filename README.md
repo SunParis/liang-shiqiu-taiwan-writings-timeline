@@ -33,8 +33,6 @@ This periodization is an interpretive research framework, not a claim that Liang
 ├── 梁实秋台湾时期作品年表_完整版.md       # Expanded research chronology
 ├── 臺灣現當代作家研究資料彙編收存系統_梁實秋文學年表.md
 │                                             # Corrected source chronology
-├── 臺灣現當代作家研究資料彙編收存系統_梁實秋文學年表.pdf
-│                                             # PDF version of the source material
 └── paper/
     ├── main.tex                              # Paper source
     ├── main.pdf                              # Compiled paper
