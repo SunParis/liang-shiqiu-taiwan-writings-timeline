@@ -1,2 +1,2 @@
-*.tex linguist-documentation
+**/*.tex linguist-documentation
 *.md linguist-documentation
