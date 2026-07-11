@@ -1,0 +1,6 @@
+/build
+/some_pdfs
+/notes
+/references_bibertool.bib
+/latexmkrc
+*.blg
